@@ -1,6 +1,6 @@
 # 📝 Valid Sudoku (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-sudoku/)
+🔗 [Problem Link](https://leetcode.com/problems/valid-sudoku)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Hash Table, Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
