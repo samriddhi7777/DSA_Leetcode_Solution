@@ -1,6 +1,6 @@
 # 📝 Reverse Only Letters (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/reverse-only-letters/?utm_source=chatgpt.com)
+🔗 [Problem Link](https://leetcode.com/problems/reverse-only-letters)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Two Pointers, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
