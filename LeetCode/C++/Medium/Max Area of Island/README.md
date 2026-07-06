@@ -1,6 +1,6 @@
 # 📝 Max Area of Island (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/max-area-of-island/)
+🔗 [Problem Link](https://leetcode.com/problems/max-area-of-island)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
