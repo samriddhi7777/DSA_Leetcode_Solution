@@ -1,6 +1,6 @@
 # 📝 Customers Who Never Order (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/customers-who-never-order/)
+🔗 [Problem Link](https://leetcode.com/problems/customers-who-never-order)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 
@@ -8,7 +8,7 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
