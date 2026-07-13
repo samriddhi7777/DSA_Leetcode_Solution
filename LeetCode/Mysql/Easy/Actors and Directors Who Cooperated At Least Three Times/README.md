@@ -1,6 +1,6 @@
 # 📝 Actors and Directors Who Cooperated At Least Three Times (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
+🔗 [Problem Link](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 
@@ -8,7 +8,7 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
