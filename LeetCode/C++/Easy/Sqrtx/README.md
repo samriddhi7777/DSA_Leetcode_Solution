@@ -1,6 +1,6 @@
 # 📝 Sqrt(x) (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sqrtx/)
+🔗 [Problem Link](https://leetcode.com/problems/sqrtx)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Math, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
