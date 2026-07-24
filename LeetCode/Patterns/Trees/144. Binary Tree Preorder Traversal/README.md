@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Stack, Tree, Depth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 43.5 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
